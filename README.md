@@ -19,10 +19,10 @@ This project implements a distributed-friendly rate limiter using pure Java. It 
 How to Run
 **********
 1. Clone Project
-git clone https://github.com/your-username/ratelimit.git 
+git clone https://github.com/AidaSuzy/assess-rate-limit.git
 cd ratelimit
 
-2. Run in IDE (preferably IntelliJ)
+3. Run in IDE (preferably IntelliJ)
 - Open project
 - Run Main.java
 
